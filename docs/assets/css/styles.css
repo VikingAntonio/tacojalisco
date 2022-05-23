@@ -22,7 +22,7 @@
 
 .portada {
   height: 650px;
-  background: url("/portada.png");
+  background: url("./portada.png");
   background-position: center;
   background-size: cover;
 }
@@ -73,7 +73,7 @@ body {
 .boton {
   width: 100%;
   height: 300px;
-  background: url("/portada.png");
+  background: url("./portada.png");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
